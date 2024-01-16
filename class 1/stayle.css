@@ -1,0 +1,21 @@
+div#Box {
+    width: 300px;
+    padding:25px;
+    border: 2px solid black;
+	border-radius: 30px;
+	margin-bottom: 10px;
+	
+	
+}
+.content {
+	background: #3498db;
+	color: #FFF;
+
+}
+div#Box2{
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	border-radius: 50%;
+	background: #3498db;
+}
